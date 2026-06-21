@@ -62,14 +62,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
         url: "/assets/music/阿悄 - 神武雨霖铃.mp3",
         cover: "/assets/music/cover/109951169585655912.webp",
         lrc: "/assets/music/lrc/神武雨霖铃-阿悄-歌词.lrc",
-      },
-      {
-        name: "咏春",
-        artist: "七朵组合",
-        url: "/assets/music/七朵组合 - 咏春.flac",
-        cover: "/assets/music/cover/109951169585655912.webp",
-        lrc: "/assets/music/lrc/咏春-七朵组合-歌词.lrc",
-      },
+      }
     ],
   },
 };
